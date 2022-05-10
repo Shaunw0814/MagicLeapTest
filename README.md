@@ -1,6 +1,7 @@
 # MagicLeapTest
 Learning OpenCV C++ windows
 
-Tutorial Used: https://www.youtube.com/watch?v=2FYm3GOonhk
+Tutorial Used: <br/>
+https://www.youtube.com/watch?v=2FYm3GOonhk
 
-Resources Used: 
+Resources Used: https://learnopencv.com/alpha-blending-using-opencv-cpp-python/
